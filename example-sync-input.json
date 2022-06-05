@@ -1,0 +1,21 @@
+{
+  "groupMappings": [
+    {
+      "schemas": [
+        "TestDB"
+      ],
+      "permissions": [
+        "SELECT"
+      ],
+      "groupName": "Developers"
+    }
+  ],
+  "parameterStoreKeyInput": {
+    "dbUsernameSSMKey": "db.username",
+    "dbPasswordSSMKey": "db.password",
+    "dbUrlSSMKey": "db.url",
+    "dbDriverClassNameSSMKey": "db.driverClassName",
+    "tenantsSSMKey": "tenants",
+    "tenantSSMKeyDelimiter": "."
+  }
+}

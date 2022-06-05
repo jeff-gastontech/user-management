@@ -1,0 +1,18 @@
+[
+  {
+    "ParameterKey": "pEnvironmentName",
+    "ParameterValue": "DEV"
+  },
+  {
+    "ParameterKey": "pDBName",
+    "ParameterValue": "TestDB"
+  },
+  {
+    "ParameterKey": "pMasterUsername",
+    "ParameterValue": "admin"
+  },
+  {
+    "ParameterKey": "pMasterPassword",
+    "ParameterValue": "adminpassword"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "usersForPasswordResets" : [
+    {
+      "schemas": [
+        "TestDB"
+      ],
+      "username": "Jeffrey.Goyette.Developers"
+    }
+  ],
+  "parameterStoreKeyInput": {
+    "dbUsernameSSMKey": "db.username",
+    "dbPasswordSSMKey": "db.password",
+    "dbUrlSSMKey": "db.url",
+    "dbDriverClassNameSSMKey": "db.driverClassName",
+    "tenantsSSMKey": "tenants",
+    "tenantSSMKeyDelimiter": "."
+  }
+}
