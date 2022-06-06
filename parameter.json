@@ -14,5 +14,9 @@
   {
     "ParameterKey": "pMasterPassword",
     "ParameterValue": "adminpassword"
+  },
+  {
+    "ParameterKey": "pImageUrl",
+    "ParameterValue": "***"
   }
 ]

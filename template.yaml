@@ -4,6 +4,10 @@ Description: "This is a template to create ETL pipeline pattern with AWS Step Fu
 
 Parameters:
 
+  pImageUrl:
+    Description: URL for the lambda docker image
+    Type: String
+
   pEnvironmentName:
     Description: An environment name that is prefixed to resource names
     Type: String
